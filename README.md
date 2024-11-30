@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  🌱 I’m currently learning <strong>ROS2</strong> and <strong>Robotics Software ngineering</strong>.
+  🌱 I’m currently learning <strong>ROS2</strong> and <strong>Mobile robotics engineering</strong>.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
