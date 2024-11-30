@@ -36,6 +36,9 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://docs.olive-robotics.com/assets/ros2.f4e27747.png" alt="Bash" width="40" height="40" />
   </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://global.discourse-cdn.com/flex036/uploads/gazebo/original/1X/5275eff0b80fa68dfc0765f350a0211a5231770b.svg" alt="Bash" width="40" height="40" />
+  </a>
 </p>
 
 
