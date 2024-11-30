@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=promit7473&label=Profile%20views&color=0e75b6&style=flat" alt="promit7473" /> </p>
 
-<p align="centre" <img src="https://media.licdn.com/dms/image/v2/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=Y-I1jvjtM82DoAy9jwPDiv4ofXjTqVkIOlE_tqWlcdw" /> </p>
+<p align="centre"> <a href="https://media.licdn.com/dms/image/v2/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=Y-I1jvjtM82DoAy9jwPDiv4ofXjTqVkIOlE_tqWlcdw" </a> </p>
 
 - 🌱 I’m currently learning **ROS2, Mobile robotics engineering**
 
