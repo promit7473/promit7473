@@ -43,8 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.licdn.com/dms/image/v2/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=Y-I1jvjtM82DoAy9jwPDiv4ofXjTqVkIOlE_tqWlcdw" alt="Robotics Cover Image](https://media.licdn.com/dms/image/D4D12AQFXsKEDWu9P8w/article-cover_image-shrink_600_2000/0/1709677190553?e=2147483647&v=beta&t=Ru4UfXCcV_GXbfF4KVFL9Zdx_uccLZ4yjlrpOPozYfE
-)" />
+  <img src="https://media.licdn.com/dms/image/D4D12AQFXsKEDWu9P8w/article-cover_image-shrink_600_2000/0/1709677190553?e=2147483647&v=beta&t=Ru4UfXCcV_GXbfF4KVFL9Zdx_uccLZ4yjlrpOPozYfE" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=promit7473&" alt="GitHub Streak Stats" />
