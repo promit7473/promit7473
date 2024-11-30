@@ -13,16 +13,6 @@
   🌱 I’m currently learning <strong>ROS2</strong> and <strong>Robotics Software ngineering</strong>.
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mhpromit7473" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mhpromit7473" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -40,10 +30,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQFXsKEDWu9P8w/article-cover_image-shrink_600_2000/0/1709677190553?e=2147483647&v=beta&t=Ru4UfXCcV_GXbfF4KVFL9Zdx_uccLZ4yjlrpOPozYfE" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=promit7473&" alt="GitHub Streak Stats" />
