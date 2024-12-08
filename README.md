@@ -16,7 +16,7 @@
 ### Interests:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,bash,ros,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,bash,ros,vscode,raspberrypi" />
   </a>
 </p>
 
