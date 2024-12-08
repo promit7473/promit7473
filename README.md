@@ -12,11 +12,10 @@
 <p>
   🌱 I’m currently learning <strong>ROS2</strong> and <strong>Mobile robotics engineering</strong>.
 </p>
-
 #### Working with:
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,markdown,latex,linux,ubuntu,ros,raspberrypi,arduino,vscode,pycharm,clion" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,linux,ros,raspberrypi,arduino,vscode,clion,pycharm" />
   </a>
 </p>
 
