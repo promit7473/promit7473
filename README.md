@@ -16,7 +16,7 @@
 #### Working with:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,linux,ubuntu,ros,raspberrypi,vscode,pycharm,clion" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,markdown,latex,linux,ubuntu,ros,raspberrypi,arduino,vscode,pycharm,clion" />
   </a>
 </p>
 
