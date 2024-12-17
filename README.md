@@ -32,10 +32,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=promit7473&theme=monokai&row=1&no-frame=true" alt="Trophies"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=promit7473&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" />
 </p>
 
