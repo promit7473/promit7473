@@ -29,7 +29,7 @@
 </p>
 
 ### 🛠️ Contribution Activity
-<p align="centre>
+<p align="centre">
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promit7473&theme=aura_dark)
 </p>
 <picture>
