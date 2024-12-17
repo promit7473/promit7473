@@ -16,8 +16,7 @@
 <p align="center">
   🌱 I’m currently learning <strong>ROS2</strong> and <strong>Mobile Robotics Engineering</strong>.
 </p>
-
-### 🚀 Tools & Technologies
+<p align="center">### 🚀 Tools & Technologies</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,linux,ros,raspberrypi,vscode,clion" />
