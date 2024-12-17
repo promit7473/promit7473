@@ -14,8 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&width=500&lines=Passionate+about+Robotics+%26+AI;Always+Learning+%26+Building+New;ROS2+ENTHUSIAST" alt="Typing SVG" />
+  <b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&width=500&lines=Passionate+about+Robotics+%26+AI;Always+Learning+%26+Building+New;ROS2+ENTHUSIAST" alt="Typing SVG" /></b>
 </p>
+
 
 
 <p align="center">
