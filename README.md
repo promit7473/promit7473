@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  🌱 I’m currently learning <strong>ROS2</strong> and <strong>Mobile Robotics Engineering</strong>.
+  🌱 I’m currently learning <strong>ROS2</strong> and <strong>Robotics Controll Systems</strong>.
 </p>
 
 <p align="center">
