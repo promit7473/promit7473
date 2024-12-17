@@ -31,7 +31,7 @@
 ### 🛠️ Contribution Activity
 
 <div align="center">
-    <img width="1000" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promit7473&theme=vue&background=1F2937" alt="Contribution Activity"/>
+    <img width="1000" height="200" src="" alt="Contribution Activity"/>
     <br/>
   
 </div>
