@@ -31,10 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=promit7473&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=promit7473&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/promit7473/promit7473/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/promit7473/promit7473/output/github-contribution-grid-snake.svg">
