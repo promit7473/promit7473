@@ -33,7 +33,6 @@
 <div align="center">
     <img width="1000" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promit7473&theme=vue&background=1F2937" alt="Contribution Activity"/>
     <br/>
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=c2-tlhah&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&background=1F2937&title_color=10B981&text_color=9CA3AF" alt="Top Languages"/>
 </div>
 
 <picture>
