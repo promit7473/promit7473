@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=promit7473&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/promit7473/promit7473/main/assets/wave.gif" width="30px">, I'm Meraj Hossain Promit</h1>
+<h1 align="center">Hi <img src="[https://raw.githubusercontent.com/promit7473/promit7473/main/assets/wave.gif](https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif)" width="30px">, I'm Meraj Hossain Promit</h1>
 <h3 align="center">Aspiring Robotics Software Engineer</h3>
 
 <p align="center">
