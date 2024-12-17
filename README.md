@@ -29,9 +29,10 @@
 </p>
 
 ### 🛠️ Contribution Activity
-<p align="centre">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promit7473&theme=aura_dark)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promit7473&theme=aura_dark" alt="GitHub Profile Summary">
 </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/promit7473/promit7473/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/promit7473/promit7473/output/github-contribution-grid-snake.svg">
