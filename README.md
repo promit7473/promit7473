@@ -26,7 +26,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=promit7473&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
-![Snake animation](https://github.com/promit7437/promit7473/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/promit7473/promit7473/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
