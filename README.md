@@ -30,11 +30,7 @@
 
 ### 🛠️ Contribution Activity
 
-<div align="center">
-    <img width="1000" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promit7473&theme=vue&background=1F2937" alt="Contribution Activity"/>
-    <br/>
-  
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promit7473&theme=aura_dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/promit7473/promit7473/output/github-contribution-grid-snake-dark.svg">
