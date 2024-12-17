@@ -23,16 +23,16 @@
   </a>
 </p>
 
-<p align = "centre">🔥 Streak Stats</p>
+<p align ="centre">🔥 Streak Stats</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=promit7473&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 ### 🐍 Watch my contribution graph get eaten by a snake!
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/promit7473/promit7473/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/promit7473/promit7473/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/promit7473/promit7473/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
 
