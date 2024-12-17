@@ -16,14 +16,14 @@
 <p align="center">
   🌱 I’m currently learning <strong>ROS2</strong> and <strong>Mobile Robotics Engineering</strong>.
 </p>
-<p align="center">### 🚀 Tools & Technologies</p>
+<p align="center">🚀 Tools & Technologies</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,linux,ros,raspberrypi,vscode,clion" />
   </a>
 </p>
 
-### 🔥 Streak Stats
+<p align = "centre">🔥 Streak Stats</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=promit7473&theme=dark" alt="GitHub Streak Stats" />
 </p>
