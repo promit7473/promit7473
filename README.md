@@ -13,9 +13,7 @@
   />
 </p>
 
-<p align="center">
-  <b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&width=500&lines=Passionate+about+Robotics+%26+AI;Always+Learning+%26+Building+New;ROS2+ENTHUSIAST" alt="Typing SVG" /></b>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=robota&weight=500&size=23&duration=3000&pause=500&color=0478F7&center=true&vCenter=true&width=435&lines=Passionate+about+Robotics+%26+AI;Linux+%26+ROS2+Enthusiast;Always+Learning+%26+Building+New)](https://git.io/typing-svg)
 
 
 
