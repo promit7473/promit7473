@@ -14,8 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&width=435&lines=Passionate+about+Robotics+%26+AI;Always+Learning+%26+Building;ROS2+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&width=500&lines=Passionate+about+Robotics+%26+AI;Always+Learning+%26+Building+New;ROS2+ENTHUSIAST" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   🌱 I’m currently learning <strong>ROS2</strong> and <strong>Mobile Robotics Engineering</strong>.
